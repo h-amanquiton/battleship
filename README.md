@@ -1,2 +1,2 @@
 # battleship
-try out project battleship
+try out project:  battleship
